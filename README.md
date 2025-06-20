@@ -2,8 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/b6b092be-ec4a-4d6c-aebd-e53e5170567b)
 
-🎯 **Aspiring Data Scientist | AI & ML Enthusiast | PG Rank Holder**  
-📚 Currently pursuing M.Sc. in Data Science at Bharathiar University  
+🎯 **Aspiring Data Scientist | AI & ML Enthusiast | UG Rank Holder**  
+📚 Graduated with M.Sc. in Data Science from Bharathiar University
 🏅 Gold Medalist in B.Voc (AI & ML) | Passionate about transforming data into intelligent solutions  
 
 ---
